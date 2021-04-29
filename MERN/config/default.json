@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "url": "mongodb+srv://Kirill:skufall0202@cluster0.wffor.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret": "Kirill Mylnikov",
+    "baseUrl": "http://localhost:5000"
+}
